@@ -1,0 +1,4 @@
+dataset:
+  csv_path: "data/HAM10000_metadata.tab"
+  images_dir: "data/HAM10000_images/"
+  image_size: [128, 128]
